@@ -1,0 +1,24 @@
+# Python cache files (This will ignore those __pycache__ folders!)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files (Prevents Mac/Windows hidden files from uploading)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual Environments (Just in case you created one later)
+venv/
+env/
+.env
+
+# IDE and Editor directories (Ignores settings from VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
