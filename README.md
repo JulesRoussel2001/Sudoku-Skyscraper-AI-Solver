@@ -1,3 +1,5 @@
+*Note: This project was developed locally over 6 months during 2024 as part of rigorous offline academic research. It was pushed to GitHub in 2026 for public portfolio access.*
+
 # Final Individual Project: 'AI for Sudoku-Like Puzzle'
 ### Developed by Jules Roussel
 
